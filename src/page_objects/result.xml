@@ -1,2 +1,16 @@
 Starting audit...
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:1:9: warning: Package name 'page_objects' must match pattern '^[a-z]+(\.[a-z][a-z0-9]*)*$'.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:6: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:7: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:8: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:9: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:10: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:11: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:12: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:13: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:14: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:15: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:16: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:17: warning: Import statement is in the wrong order. Should be in the 'THIRD_PARTY_PACKAGE' group.
+C:\Users\Igor Cotta\Documents\workpace\DesafioSelenium\src\page_objects\PageObjects.java:19: warning: Import statement is in the wrong order. Should be in the 'SPECIAL_IMPORTS' group.
 Audit done.
